@@ -7,7 +7,7 @@ func TestGenerateProfile(t *testing.T) {
 PrivateKey = 1
 Address = 2/32
 Address = 3/128
-DNS = 1.1.1.1
+DNS = 94.140.14.14
 MTU = 1280
 [Peer]
 PublicKey = 4
