@@ -10,7 +10,7 @@ var profileTemplate = `[Interface]
 PrivateKey = {{ .PrivateKey }}
 Address = {{ .Address1 }}/32
 Address = {{ .Address2 }}/128
-DNS = 1.1.1.1
+DNS = 94.140.14.14
 MTU = 1280
 [Peer]
 PublicKey = {{ .PublicKey }}
