@@ -1,6 +1,6 @@
 # Simple SetUp Guide
 
-1. Get the latest release for your Operating System from releases.
+1. Get the latest release for your Operating System from [releases](https://github.com/yodaluca23/Warp-VPN-AdGuard-DNS/releases/latest).
 2. Copy the path and remove any quotations from the copied path.
 3. Open up CMD (Windows) or Terminal (MacOS & Linux)
 4. Run ```[Path] register```.
