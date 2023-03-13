@@ -1,6 +1,6 @@
 # Warp VPN + AdGuard DNS
 
-This project is a fork of the WGCF unofficial CloudFlare Warp CLI, which was created by [ViRb3](https://github.com/ViRb3). The original code is available under the MIT License. I have modified the code to change the default DNS server from 1.1.1.1 to 94.140.14.14. All credit for the original software goes to the creators of WGCF. This means, that the exported .config file to import into WireGuard, will use AdGuards DNS, which will block ads, but it will still use the Warp VPN. For easy instuctions, read [The Guide here](https://github.com/yodaluca23/Warp-VPN-AdGuard-DNS/blob/master/Guide.md).
+This project is a fork of the WGCF unofficial CloudFlare Warp CLI, which was created by [ViRb3](https://github.com/ViRb3). The original code is available under the MIT License. I have modified the code to change the default DNS server from 1.1.1.1 to 94.140.14.14. All credit for the original software goes to the creators of WGCF. This means, that the exported .config file, will use AdGuards DNS, which will block ads, but it will still use the Warp VPN. For easy instuctions, read [The Guide here](https://github.com/yodaluca23/Warp-VPN-AdGuard-DNS/blob/master/Guide.md).
 
 ## wgcf
 > wgcf is an unofficial, cross-platform CLI for [Cloudflare Warp](https://1.1.1.1/)
@@ -94,6 +94,13 @@ bash generate-api.sh
 This script supports both Linux and WSL.
 
 ## Notice of Non-Affiliation and Disclaimer
+
+We are not affiliated, associated, authorized, endorsed by, or in any way officially connected with any other company, agency or government agency. All product and company names are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.
+
 We are not affiliated, associated, authorized, endorsed by, or in any way officially connected with Cloudflare, or any of its subsidiaries or its affiliates. The official Cloudflare website can be found at https://www.cloudflare.com/.
 
 The names Cloudflare Warp and Cloudflare as well as related names, marks, emblems and images are registered trademarks of their respective owners.
+
+We are not affiliated, associated, authorized, endorsed by, or in any way officially connected with AdGuard, or any of its subsidiaries or its affiliates. The official AdGuard website can be found at https://adguard.com.
+
+The names AdGuard DNS and AdGuard as well as related names, marks, emblems and images are registered trademarks of their respective owners.
