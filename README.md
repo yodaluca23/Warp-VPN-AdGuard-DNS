@@ -1,6 +1,6 @@
 # Warp VPN + AdGuard DNS
 
-This project is a fork of the WGCF unofficial CloudFlare Warp CLI, which was created by [ViRb3](https://github.com/ViRb3). The original code is available under the MIT License. I have modified the code ***(Not yet, I'm changing the ReadMe's first, will remove this, once this is ready)*** to change the default DNS server from 1.1.1.1 to 94.140.14.14. All credit for the original software goes to the creators of WGCF. This means, that the exported .config file to import into WireGuard, will use AdGuards DNS, which will block ads, but it will still use the Warp VPN. For easy instuctions, read [The Guide here](https://github.com/yodaluca23/Warp-VPN-AdGuard-DNS/blob/master/Guide.md).
+This project is a fork of the WGCF unofficial CloudFlare Warp CLI, which was created by [ViRb3](https://github.com/ViRb3). The original code is available under the MIT License. I have modified the code to change the default DNS server from 1.1.1.1 to 94.140.14.14. All credit for the original software goes to the creators of WGCF. This means, that the exported .config file to import into WireGuard, will use AdGuards DNS, which will block ads, but it will still use the Warp VPN. For easy instuctions, read [The Guide here](https://github.com/yodaluca23/Warp-VPN-AdGuard-DNS/blob/master/Guide.md).
 
 ## wgcf
 > wgcf is an unofficial, cross-platform CLI for [Cloudflare Warp](https://1.1.1.1/)
