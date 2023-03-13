@@ -5,7 +5,6 @@ This project is a fork of the WGCF unofficial CloudFlare Warp CLI, which was cre
 ## wgcf
 > wgcf is an unofficial, cross-platform CLI for [Cloudflare Warp](https://1.1.1.1/)
 
-![](https://img.shields.io/drone/build/yodaluca23/Warp-VPN-AdGuard-DNS)
 ![](https://img.shields.io/github/issues/yodaluca23/Warp-VPN-AdGuard-DNS)
 ![](https://img.shields.io/github/downloads/yodaluca23/Warp-VPN-AdGuard-DNS/total)
 ![](https://img.shields.io/github/languages/code-size/yodaluca23/Warp-VPN-AdGuard-DNS)
