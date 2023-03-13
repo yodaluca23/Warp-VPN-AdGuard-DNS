@@ -1,10 +1,14 @@
-# wgcf
+# Warp VPN + AdGuard DNS
+
+This project is a fork of the WGCF unofficial CloudFlare Warp CLI, which was created by [ViRb3](https://github.com/ViRb3). The original code is available under the MIT License. I have modified the code ***(Not yet, I'm changing the ReadMe's first, will remove this, once this is ready)*** to change the default DNS server from 1.1.1.1 to 94.140.14.14. All credit for the original software goes to the creators of WGCF. This means, that the exported .config file to import into WireGuard, will use AdGuards DNS, which will block ads, but it will still use the Warp VPN. For easy instuctions, read [The Guide here](https://github.com/yodaluca23/Warp-VPN-AdGuard-DNS/blob/master/Guide.md).
+
+## wgcf
 > wgcf is an unofficial, cross-platform CLI for [Cloudflare Warp](https://1.1.1.1/)
 
-![](https://img.shields.io/drone/build/ViRb3/wgcf)
-![](https://img.shields.io/github/issues/ViRb3/wgcf)
-![](https://img.shields.io/github/downloads/ViRb3/wgcf/total)
-![](https://img.shields.io/github/languages/code-size/ViRb3/wgcf)
+![](https://img.shields.io/drone/build/yodaluca23/Warp-VPN-AdGuard-DNS)
+![](https://img.shields.io/github/issues/yodaluca23/Warp-VPN-AdGuard-DNS)
+![](https://img.shields.io/github/downloads/yodaluca23/Warp-VPN-AdGuard-DNS/total)
+![](https://img.shields.io/github/languages/code-size/yodaluca23/Warp-VPN-AdGuard-DNS)
 
 ## Features
 - Register new account
@@ -14,7 +18,7 @@
 - Print trace information to debug Warp/Warp+ status
 
 ## Download
-You can find pre-compiled binaries on the [releases page](https://github.com/ViRb3/wgcf/releases).
+You can find pre-compiled binaries on the [releases page](https://github.com/yodaluca23/Warp-VPN-AdGuard-DNS/releases).
 
 ## Usage
 Run `wgcf` in a terminal without any arguments to display the help screen. All commands and parameters are documented.
